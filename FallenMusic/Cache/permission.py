@@ -10,6 +10,7 @@ def PermissionCheck(mystic):
             return await message.reply_text(
                 "» ᴩʟᴇᴀsᴇ ɢɪᴠᴇ ᴍᴇ ʙᴇʟᴏᴡ ᴩᴇʀᴍɪssɪᴏɴs :\n\n"
                 + "\n• **ᴅᴇʟᴇᴛᴇ ᴍᴇssᴀɢᴇs**"
+                + "\n• **Pɪɴ ᴍᴇssᴀɢᴇ.**"
                 + "\n• **ᴍᴀɴᴀɢᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs**"
                 + "\n• **ɪɴᴠɪᴛᴇ ᴜsᴇʀs ᴠɪᴀ ʟɪɴᴋ.**"
             )
@@ -17,6 +18,12 @@ def PermissionCheck(mystic):
             await message.reply_text(
                 "» ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ :"
                 + "\n\n**ᴍᴀɴᴀɢᴇ ᴠɪᴅᴇᴏ ᴄʜᴀᴛs.**"
+            )
+            return
+        if not a.can_pin_messages:
+            await message.reply_text(
+                "» ɪ ᴅᴏɴ'ᴛ ʜᴀᴠᴇ ᴩᴇʀᴍɪssɪᴏɴs ᴛᴏ :"
+                + "\n\n**Pɪɴ ᴍᴇssᴀɢᴇs.**"
             )
             return
         if not a.can_delete_messages:
