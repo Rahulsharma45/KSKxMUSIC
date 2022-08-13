@@ -55,12 +55,12 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BGMIxCHATS"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/KSKxCHEATS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousR1025/Fallen-Music/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ᴍᴜsɪᴄ 🖤**
+- **ᴛʜᴀɴᴋꜱ ᴛᴏ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/KSKOP_69) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ KSK ✘ ᴍᴜsɪᴄ 🖤**
 
 ----------------------------------------------------------
